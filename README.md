@@ -1,7 +1,7 @@
 # GPATree
 GPA-Tree is a statistical approach to integrate GWAS summary statistics and functional annotation information within a unified framework. Specifically, by combining a decision tree algorithm with a hierarchical modeling framework, GPA-Tree simultaneously implements association mapping and identifies key combinations of functional annotations related to disease risk-associated SNPs. 
 
-# Installtion
+# Installation
 To install the development version of GPATree, use the following commands.
 
 ```{r}
